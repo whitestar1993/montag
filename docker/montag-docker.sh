@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-IMAGE="${MONTAG_IMAGE:-oci.guero.top/montag:latest}"
+IMAGE="${MONTAG_IMAGE:-oci.guero.org/montag:latest}"
 ENGINE="${CONTAINER_ENGINE:-docker}"
 
 ENCODING="utf-8"
